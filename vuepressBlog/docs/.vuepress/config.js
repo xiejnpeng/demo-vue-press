@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/demo-vue-press/',
   title: '微笑的蛋壳呀',                       // 标题
   description: '饭要一口一口吃，路要一步一步走',  // 描述
   head: [ 
